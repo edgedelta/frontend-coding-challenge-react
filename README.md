@@ -13,3 +13,6 @@ It's time for the 2022 NHL Entry Draft, and you've been tasked with creating a s
 
 **Bonus Points**
 Get as crazy as you want with the challenge. The players have a decent amount of information on them. Use it in whatever way you see fit!
+
+### Example Screenshot
+https://imgur.com/J23ICyz
